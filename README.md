@@ -1,7 +1,7 @@
 # Tracking eye position and gaze direction in near-eye volumetric displays
 
 This repository contains the source code for the eye-tracking application used in the paper 
-"Tracking eye position and gaze direction in near-eye volumetric displays" (DOI: [XX.XXX/XX.XXX](https://doi.org/XX.XXX/XX.XXX)). 
+"Tracking eye position and gaze direction in near-eye volumetric displays" (DOI: [10.1109/ISMAR62088.2024.00094](https://doi.org/10.1109/ISMAR62088.2024.00094)). 
 The application uses an IDS uEye camera to track the user's eye and gaze direction, and displays the results on the screen.
 In the case of missing camera, the application can be run on a pre-recorded video file.
 
