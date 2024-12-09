@@ -1,4 +1,7 @@
+# <span style="color:red">This is an archived version of the project. The latest version is available [HERE](https://github.com/gfxdisp/eye_tracking)</span>
+
 # Tracking eye position and gaze direction in near-eye volumetric displays
+[Web page](https://www.cl.cam.ac.uk/research/rainbow/projects/hdrmfs-eye-tracking/) | [Paper](https://www.cl.cam.ac.uk/~rkm38/pdfs/wernikowski2024_eye_tracking.pdf)
 
 This repository contains the source code for the eye-tracking application used in the paper 
 "Tracking eye position and gaze direction in near-eye volumetric displays" (DOI: [10.1109/ISMAR62088.2024.00094](https://doi.org/10.1109/ISMAR62088.2024.00094)). 
